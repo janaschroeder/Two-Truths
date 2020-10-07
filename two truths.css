@@ -1,0 +1,19 @@
+.wrapper {
+    background-color: gray;
+border: thick solid black
+}
+
+.css-classes h1{
+    font-size: 20px;
+color: light green;
+text-align: center
+}
+
+.css-classes h3{
+    font-size: 16px;
+color: blue
+}
+.css-classes p{
+    font-size: 14px;
+volor: red
+}
